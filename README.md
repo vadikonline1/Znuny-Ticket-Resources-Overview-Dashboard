@@ -4,5 +4,5 @@
 - Dashboard to Display Resources (Ticket Owner) Per Ticket States
 
 
-![owner-overview](doc/en/images/owner-overview.png)
+![owner-overview](owner-overview.png)
 
